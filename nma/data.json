@@ -1,0 +1,2302 @@
+{
+    "Apple":{
+        "1":{
+            "name":"Apple iPhone XR",
+            "model":"Apple",
+            "color": "Black",
+            "ram": "4GB",
+            "memory": "128GB",
+            "price":315,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/51qBzX0pGYL._SL1000_.jpg"
+        },
+        "2":{
+            "name":"Apple iPhone 6s",
+            "model":"Apple",
+            "color": "Gold",
+            "ram": "2GB",
+            "memory": "32GB",
+            "price":851,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/515nILxCqdL._SL1024_.jpg"
+        },
+        "3":{
+            "name":"Apple iPhone XR",
+            "model":"Apple",
+            "color": "Black",
+            "ram": "4GB",
+            "memory": "128GB",
+            "price":1644,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/51qBzX0pGYL._SL1000_.jpg"
+        },
+        "4":{
+            "name":"Apple iPhone XR",
+            "model":"Apple",
+            "color": "RED",
+            "ram": "4GB",
+            "memory": "128GB",
+            "price":1258,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/51YXG1bDM5L._SL1024_.jpg"
+        },
+        "5":{
+            "name":"Apple iPhone XR",
+            "model":"Apple",
+            "color": "White",
+            "ram": "4GB",
+            "memory": "128GB",
+            "price":1350,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/51SoC1zEpZL._SL1000_.jpg"
+        },
+        "6":{
+            "name":"Apple iPhone XR",
+            "model":"Apple",
+            "color": "RED",
+            "ram": "6GB",
+            "memory": "128GB",
+            "price":1498,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/51YXG1bDM5L._SL1024_.jpg"
+        },
+        "7":{
+            "name":"Apple iPhone 6s",
+            "model":"Apple",
+            "color": "Space Grey",
+            "ram": "2GB",
+            "memory": "32GB",
+            "price":384,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/516jNlSnB-L._SL1024_.jpg"
+        },
+        "8":{
+            "name":"Apple iPhone 6s",
+            "model":"Apple",
+            "color": "Space Grey",
+            "ram": "1GB",
+            "memory": "32GB",
+            "price":342,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/516jNlSnB-L._SL1024_.jpg"
+        },
+        "9":{
+            "name":"Apple iPad",
+            "model":"Apple",
+            "color": "Gold",
+            "ram": "2GB",
+            "memory": "32GB",
+            "price":2399,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/51Y5NYmG81L._SL1024_.jpg"
+        },
+        "10":{
+            "name":"Apple iPad",
+            "model":"Apple",
+            "color": "Gold",
+            "ram": "2GB",
+            "memory": "32GB",
+            "price":2499,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/51Y5NYmG81L._SL1024_.jpg"
+        },
+        "11":{
+            "name":"Apple iPhone Xs Max",
+            "model":"Apple",
+            "color": "Gold",
+            "ram": "6GB",
+            "memory": "256GB",
+            "price":1123,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61nMZHYdXaL._SL1024_.jpg"
+        },
+        "12":{
+            "name":"Apple iPhone 7 Plus",
+            "model":"Apple",
+            "color": "Gold",
+            "ram": "2GB",
+            "memory": "32GB",
+            "price":499,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/41Z%2Bje5nx0L._SL1000_.jpg"
+        },
+        "13":{
+            "name":"Apple iPhone XR",
+            "model":"Apple",
+            "color": "Black",
+            "ram": "2GB",
+            "memory": "64GB",
+            "price":559,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/519KIlHA2wL._SL1024_.jpg"
+        },
+        "14":{
+            "name":"Apple iPhone 6s ",
+            "model":"Apple",
+            "color": "Rose Gold",
+            "ram": "4GB",
+            "memory": "32GB",
+            "price":1625,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/51xoTmYOxjL._SL1024_.jpg"
+        },
+        "15":{
+            "name":"Apple iPhone 7 ",
+            "model":"Apple",
+            "color": "Rose Gold",
+            "ram": "2GB",
+            "memory": "32GB",
+            "price":1636,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/41G7hrvCSrL._SL1024_.jpg"
+        },
+        "16":{
+            "name":"Apple iPhone 7 Plus",
+            "model":"Apple",
+            "color": "Rose Gold",
+            "ram": "4GB",
+            "memory": "128GB",
+            "price":599,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/41ie%2B895EyL._SL1000_.jpg"
+        },
+        "17":{
+            "name":"Apple iPhone Xs",
+            "model":"Apple",
+            "color": "Space Grey",
+            "ram": "6GB",
+            "memory": "256GB",
+            "price":476,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/512F7mwDVyL._SL1024_.jpg"
+        },
+        "18":{
+            "name":"Apple iPhone 8 Plus",
+            "model":"Apple",
+            "color": "Silver",
+            "ram": "6GB",
+            "memory": "256GB",
+            "price":6989,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/51i3MHoOe7L._SL1024_.jpg"
+        },
+        "19":{
+            "name":"Apple iPhone 8 Plus",
+            "model":"Apple",
+            "color": "RED",
+            "ram": "4GB",
+            "memory": "256GB",
+            "price":6299,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71Erg2XbSrL._SL1500_.jpg"
+        },
+        "20":{
+            "name":"Apple iPhone 8 Plus",
+            "model":"Apple",
+            "color": "RED",
+            "ram": "4GB",
+            "memory": "256GB",
+            "price":6199,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71Erg2XbSrL._SL1500_.jpg"
+        },
+        "21":{
+            "name":"Apple iPhone 7 Plus",
+            "model":"Apple",
+            "color": "Silver",
+            "ram": "4GB",
+            "memory": "128GB",
+            "price":708,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/418fDVeBfKL._SL1024_.jpg"
+        },
+        "22":{
+            "name":"Apple iPhone Xs",
+            "model":"Apple",
+            "color": "Silver",
+            "ram": "2GB",
+            "memory": "64GB",
+            "price":1897,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61UXPmnTC9L._SL1024_.jpg"
+        },
+        "23":{
+            "name":"Apple iPhone Xs",
+            "model":"Apple",
+            "color": "Silver",
+            "ram": "4GB",
+            "memory": "64GB",
+            "price":755,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61UXPmnTC9L._SL1024_.jpg"
+        },
+        "24":{
+            "name":"Apple iPhone 7 Plus",
+            "model":"Apple",
+            "color": "Gold",
+            "ram": "4GB",
+            "memory": "128GB",
+            "price":5799,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/41p5pjGGOjL._SL1024_.jpg"
+        },
+        "25":{
+            "name":"Apple iPad Air",
+            "model":"Apple",
+            "color": "Gold",
+            "ram": "2GB",
+            "memory": "64GB",
+            "price":4265,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/51IqpNeYKPL._SL1024_.jpg"
+        },
+        "26":{
+            "name":"Apple iPhone 8 Plus",
+            "model":"Apple",
+            "color": "RED",
+            "ram": "4GB",
+            "memory": "256GB",
+            "price":6299,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71Erg2XbSrL._SL1500_.jpg"
+        },
+        "27":{
+            "name":"Apple iPhone Xs",
+            "model":"Apple",
+            "color": "Silver",
+            "ram": "6GB",
+            "memory": "512GB",
+            "price":12450,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/51Gggt-m0LL._SL1000_.jpg"
+        },
+        "28":{
+            "name":"Apple iPhone Xs (512GB) - Silver",
+            "model":"Apple",
+            "color": "Silver",
+            "ram": "6GB",
+            "memory": "512GB",
+            "price":12450,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/51Gggt-m0LL._SL1000_.jpg"
+        },
+        "29":{
+            "name":"Apple iPad",
+            "model":"Apple",
+            "color": "Space Grey",
+            "ram": "4GB",
+            "memory": "128GB",
+            "price":3427,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/51x4j48wCpL._SL1024_.jpg"
+        }
+    },
+    "Huawei":{
+        "1":{
+            "name":"Huawei Y9 2019",
+            "model":"Huawei",
+            "color": "Sapphire Blue",
+            "ram": "4GB",
+            "memory": "64GB",
+            "price":1123,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/613X%2BfUFr1L._SL1000_.jpg"
+        },
+        "2":{
+            "name":"Huawei Y9 2019",
+            "model":"Huawei",
+            "color": "Black",
+            "ram": "4GB",
+            "memory": "64GB",
+            "price":1248,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/5164uq3MCVL._SL1000_.jpg"
+        },
+        "3":{
+            "name":"Huawei P30 Lite",
+            "model":"Huawei",
+            "color": "Midnight Black",
+            "ram": "4GB",
+            "memory": "128GB",
+            "price":1943,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61SDSA5LtqL._SL1000_.jpg"
+        },
+        "4":{
+            "name":"Huawei P30 Lite",
+            "model":"Huawei",
+            "color": "Peacock Blue",
+            "ram": "4GB",
+            "memory": "128GB",
+            "price":1336,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61I1%2BybyOVL._SL1000_.jpg"
+        },
+        "5":{
+            "name":"Huawei Nova 3i",
+            "model":"Huawei",
+            "color": "Black",
+            "ram": "4GB",
+            "memory": "128GB",
+            "price":1758,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81e53Kjj6uL._SL1500_.jpg"
+        },
+        "6":{
+            "name":"Huawei P30 Pro",
+            "model":"Huawei",
+            "color": "Breathing Crystal",
+            "ram": "8GB",
+            "memory": "256GB",
+            "price":1730,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/51bIGWynl4L._SL1000_.jpg"
+        },
+        "7":{
+            "name":"HUAWEI MediaPad T5 Tablet",
+            "model":"Huawei",
+            "color": "Black",
+            "ram": "3GB",
+            "memory": "32GB",
+            "price":840,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61rcbDNXAaL._SL1000_.jpg"
+        },
+        "8":{
+            "name":"HUAWEI MediaPad T5 Tablet",
+            "model":"Huawei",
+            "color": "Black",
+            "ram": "4GB",
+            "memory": "32GB",
+            "price":1716,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61rcbDNXAaL._SL1000_.jpg"
+        },
+        "9":{
+            "name":"Huawei Mate 20 Pro",
+            "model":"Huawei",
+            "color": "Ocean Blue",
+            "ram": "6GB",
+            "memory": "128GB",
+            "price":6499,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61uoA87b4mL._SL1000_.jpg"
+        },
+        "10":{
+            "name":"Huawei CP60",
+            "model":"Huawei",
+            "color": "White",
+            "ram": "3GB",
+            "memory": "32GB",
+            "price":399,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/41tsqea7kLL._SL1000_.jpg"
+        },
+        "11":{
+            "name":"Huawei CP60",
+            "model":"Huawei",
+            "color": "White",
+            "ram": "3GB",
+            "memory": "32GB",
+            "price":399,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/41tsqea7kLL._SL1000_.jpg"
+        }
+    },
+    "Nokia":{
+        "1":{
+            "name":"Nokia 105",
+            "model":"Nokia",
+            "price":1588,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/51wrcikRDcL._SL1126_.jpg",
+            "color":"Black",
+            "ram":"8GB",
+            "memory":"64GB"
+        },
+        "2":{
+            "name":"Nokia 5",
+            "model":"Nokia",
+            "price":677,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/51v7%2BlLTjdL._SL1025_.jpg",
+            "color":"Blue",
+            "memory":"32 GB",
+            "ram":"8GB"
+        },
+        "3":{
+            "name":"nokia 5 Copper",
+            "model":"Nokia",
+            "price":749,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61HTOI74SNL._SL1240_.jpg",
+            "color":"nokia 5 Copper",
+            "ram":"8GB",
+            "memory":"64GB"
+        },
+        "4":{
+            "name":"Nokia 105",
+            "model":"Nokia",
+            "price":1394,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71Ysq787h7L._SL1500_.jpg",
+            "color":"Blue",
+            "ram":"8GB",
+            "memory":"64GB"
+        },
+        "5":{
+            "name":"Nokia 2",
+            "model":"Nokia",
+            "price":558,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/51Wstzm2ivL._SL1049_.jpg",
+            "color":"Blue-Copper",
+            "ram":"8GB",
+            "memory":"64GB"
+        },
+        "6":{
+            "name":"Nokia 3",
+            "model":"Nokia",
+            "price":785,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81dOOs7xhLL._SL1500_.jpg",
+            "color":"Black",
+            "ram":"2GB ram",
+            "memory":"16GB Storage"
+        },
+        "7":{
+            "name":"Nokia 216",
+            "model":"Nokia",
+            "price":1396,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61Daa%2BMgrXL._SL1173_.jpg",
+            "color":"Blue",
+            "ram":"8GB",
+            "memory":"64GB"
+        },
+        "8":{
+            "name":"Nokia 8",
+            "model":"Nokia",
+            "price":1436,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61brRkunYCL._SL1127_.jpg",
+            "color":"Blue",
+            "ram":"6GB ram",
+            "memory":"128GB Storage with No Cost EMI/Additional Exchange Offers"
+        },
+        "9":{
+            "name":"Nokia 3",
+            "model":"Nokia",
+            "price":1022,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81Iek6AWShL._SL1500_.jpg",
+            "color":"Steel",
+            "ram":"3GB ram",
+            "memory":"32GB Storage"
+        },
+        "10":{
+            "name":"Nokia 150",
+            "model":"Nokia",
+            "price":829,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61DGZZBjMqL._SL1179_.jpg",
+            "color":"Black",
+            "ram":"8GB",
+            "memory":"64GB"
+        },
+        "11":{
+            "name":"Nokia 3 Plus",
+            "model":"Nokia",
+            "price":852,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/51srUsu0DOL._SL1033_.jpg",
+            "color":"Baltic",
+            "ram":"3GB ram",
+            "memory":"32GB Storage"
+        },
+        "12":{
+            "name":"Nokia 6",
+            "model":"Nokia",
+            "price":1099,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81BosCxOwxL._SL1500_.jpg",
+            "color":"Blue-Gold",
+            "ram":"4GB ram",
+            "memory":"64GB Storage"
+        },
+        "13":{
+            "name":"Nokia 3310",
+            "model":"Nokia",
+            "price":1440,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61uJzsRIKCL._SL1141_.jpg",
+            "color":"Dark Blue",
+            "ram":"8GB",
+            "memory":"64GB"
+        },
+        "14":{
+            "name":"Nokia 216",
+            "model":"Nokia",
+            "price":890,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/51jUtsdS%2BBL._SL1017_.jpg",
+            "color":"Black",
+            "ram":"8GB",
+            "memory":"64GB"
+        },
+        "15":{
+            "name":"Nokia 105",
+            "model":"Nokia",
+            "price":1122,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/51wrcikRDcL._SL1126_.jpg",
+            "color":"Black",
+            "ram":"8GB",
+            "memory":"64GB"
+        },
+        "16":{
+            "name":"Nokia 4",
+            "model":"Nokia",
+            "price":971,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81YTUmk8zCL._SL1500_.jpg",
+            "color":"Black",
+            "ram":"3GB ram",
+            "memory":"32GB Storage"
+        },
+        "17":{
+            "name":"Nokia 130 DS",
+            "model":"Nokia",
+            "price":1087,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61pSRQAfSYL._SL1141_.jpg",
+            "color":"Black",
+            "ram":"8GB",
+            "memory":"64GB"
+        },
+        "18":{
+            "name":"Nokia 216",
+            "model":"Nokia",
+            "price":1761,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61qgr1uOhBL._SL1157_.jpg",
+            "color":"Grey",
+            "ram":"8GB",
+            "memory":"64GB"
+        },
+        "19":{
+            "name":"Nokia 130 DS",
+            "model":"Nokia",
+            "price":408,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61Kn9gtOnrL._SL1157_.jpg",
+            "color":"Grey",
+            "ram":"8GB",
+            "memory":"64GB"
+        },
+        "20":{
+            "name":"Nokia 8",
+            "model":"Nokia",
+            "price":986,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61sDH4MeM1L._SL1127_.jpg",
+            "color":"Iron",
+            "ram":"4GB ram",
+            "memory":"64GB Storage"
+        },
+        "21":{
+            "name":"Nokia 150",
+            "model":"Nokia",
+            "price":742,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61GKHNLqUCL._SL1004_.jpg",
+            "color":"White",
+            "ram":"8GB",
+            "memory":"64GB"
+        },
+        "22":{
+            "name":"Nokia 8",
+            "model":"Nokia",
+            "price":910,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61brRkunYCL._SL1127_.jpg",
+            "color":"Blue",
+            "ram":"4GB ram",
+            "memory":"64GB Storage"
+        },
+        "23":{
+            "name":"Nokia 5",
+            "model":"Nokia",
+            "price":749,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/51Vm%2B-NVsdL._SL1024_.jpg",
+            "color":"Matte Black",
+            "ram":"3GB ram",
+            "memory":"16GB Storage"
+        },
+        "24":{
+            "name":"Nokia 130 DS",
+            "model":"Nokia",
+            "price":937,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61U92H7PbTL._SL1152_.jpg",
+            "color":"Red",
+            "ram":"8GB",
+            "memory":"64GB"
+        },
+        "25":{
+            "name":"Nokia 3",
+            "model":"Nokia",
+            "price":757,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/514YON-kucL._SL1142_.jpg",
+            "color":"Black",
+            "memory":"32GB",
+            "ram":"8GB"
+        },
+        "26":{
+            "name":"Nokia 3",
+            "model":"Nokia",
+            "price":757,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/514YON-kucL._SL1142_.jpg",
+            "color":"Black",
+            "memory":"32GB",
+            "ram":"8GB"
+        },
+        "27":{
+            "name":"Nokia 3310",
+            "model":"Nokia",
+            "price":1325,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61m-SMoJ4tL._SL1000_.jpg",
+            "color":"Grey",
+            "ram":"8GB",
+            "memory":"64GB"
+        },
+        "28":{
+            "name":"Nokia 6 Plus",
+            "model":"Nokia",
+            "price":1661,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61UXDdyLTxL._SL1100_.jpg",
+            "color":"Black",
+            "ram":"6GB ram",
+            "memory":"64GB Storage"
+        },
+        "29":{
+            "name":"Nokia XP-150 Phone Cover for Nokia 1",
+            "model":"Nokia",
+            "price":1857,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/51B89URNm1L._SL1191_.jpg",
+            "color":"Azure-Grey",
+            "ram":"8GB",
+            "memory":"64GB"
+        },
+        "30":{
+            "name":"Nokia 2",
+            "model":"Nokia",
+            "price":629,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/51v6kseiSlL._SL1089_.jpg",
+            "color":"Blue-Silver",
+            "ram":"8GB",
+            "memory":"64GB"
+        },
+        "31":{
+            "name":"Nokia 3",
+            "model":"Nokia",
+            "price":844,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61i4SzQqyoL._SL1168_.jpg",
+            "color":"Charcoal",
+            "ram":"8GB",
+            "memory":"64GB"
+        },
+        "32":{
+            "name":"Nokia 2 Blue-Silver",
+            "model":"Nokia",
+            "price":629,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/51v6kseiSlL._SL1089_.jpg",
+            "color":"Nokia 2 Blue-Silver",
+            "ram":"8GB",
+            "memory":"64GB"
+        },
+        "33":{
+            "name":"Nokia 8 Sirocco",
+            "model":"Nokia",
+            "price":2999,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/51diKYao8WL._SL1000_.jpg",
+            "color":"Black",
+            "ram":"6GB ram",
+            "memory":"128GB Storage"
+        },
+        "34":{
+            "name":"Nokia 6",
+            "model":"Nokia",
+            "price":1008,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61IBx6oJCGL._SL1208_.jpg",
+            "color":"Black-Copper",
+            "ram":"3GB ram",
+            "memory":"32GB Storage"
+        },
+        "35":{
+            "name":"Nokia 105",
+            "model":"Nokia",
+            "price":597,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71Ysq787h7L._SL1500_.jpg",
+            "color":"Blue",
+            "ram":"8GB",
+            "memory":"64GB"
+        },
+        "36":{
+            "name":"Nokia 105",
+            "model":"Nokia",
+            "price":473,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71Ysq787h7L._SL1500_.jpg",
+            "color":"Blue",
+            "ram":"8GB",
+            "memory":"64GB"
+        },
+        "37":{
+            "name":"Nokia XP-150 Phone Cover for Nokia 1",
+            "model":"Nokia",
+            "price":937,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/51I9ZQeSQDL._SL1191_.jpg",
+            "color":"Pink-Yellow",
+            "ram":"8GB",
+            "memory":"64GB"
+        },
+        "38":{
+            "name":"Nokia 3",
+            "model":"Nokia",
+            "price":890,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61afkCy%2Bq6L._SL1140_.jpg",
+            "color":"White",
+            "memory":"32GB",
+            "ram":"8GB"
+        }
+    },
+    "Oppo":{
+        "1":{
+            "name":"OPPO A5S",
+            "model":"Oppo",
+            "color": "Black",
+            "ram": "2 GB",
+            "memory": "32 GB",
+            "price":899,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71ZU4VsevqL._SL1000_.jpg"
+        },
+        "2":{
+            "name":"OPPO A1K ",
+            "model":"Oppo",
+            "color": "Black",
+            "ram": "2 GB",
+            "memory": "32 GB",
+            "price":799,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71XTesfK-bL._SL1500_.jpg"
+        },
+        "3":{
+            "name":"OPPO F11 ",
+            "model":"Oppo",
+            "color": "Marble Green",
+            "ram": "4 GB",
+            "memory": "128 GB",
+            "price":1119,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71MO0jRC9TL._SL1500_.jpg"
+        },
+        "4":{
+            "name":"OPPO F11 Pro ",
+            "model":"Oppo",
+            "color": "Waterfall Grey",
+            "ram": "6 GB",
+            "memory": "128 GB",            
+            "price":342,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71ukhsF0iUL._SL1500_.jpg"
+        }, 
+        "5":{
+            "name":"OPPO A5S",
+            "model":"Oppo",
+            "color": "Black",
+            "ram": "3 GB",
+            "memory": "32 GB", 
+            "price":999,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71ZU4VsevqL._SL1000_.jpg"
+        },    
+        "6":{
+            "name":"OPPO F11 Pro ",
+            "model":"Oppo",
+            "color": "Thunder Black",
+            "ram": "6 GB",
+            "memory": "128 GB", 
+            "price":727,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/51xHk2HlelL._SL1100_.jpg"
+        },
+        "7":{
+            "name":"OPPO F11",
+            "model":"Oppo",
+            "color": "Fluorite Purple",
+            "ram": "6 GB",
+            "memory": "128 GB", 
+            "price":454,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71qP%2BfMtbDL._SL1500_.jpg"
+        },
+        "8":{
+            "name":"OPPO A3s ",
+            "model":"Oppo",
+            "color": "Red",
+            "ram": "2 GB",
+            "memory": "16 GB", 
+            "price":799,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61g0woFHtKL._SL1310_.jpg"
+        },
+        "9":{
+            "name":"OPPO F11 Pro",
+            "model":"Oppo",
+            "color": "Aurora Green",
+            "ram": "6 GB",
+            "memory": "64 GB", 
+            "price":1819,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/51EhaIIKeJL._SL1100_.jpg"
+        },
+        "10":{
+            "name":"OPPO A5S",
+            "model":"Oppo",
+            "color": "Red",
+            "ram": "2 GB",
+            "memory": "32 GB", 
+            "price":899,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81Hnvv9fNlL._SL1500_.jpg"
+        },
+        "11":{
+            "name":"OPPO F11",
+            "model":"Oppo",
+            "color": "Fluorite Purple",
+            "ram": "4 GB",
+            "memory": "128 GB", 
+            "price":1406,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71qP%2BfMtbDL._SL1500_.jpg"
+        },
+        "12":{
+            "name":"OPPO A3s",
+            "model":"Oppo",
+            "color": "Dark Purple",
+            "ram": "3GB",
+            "memory": "32GB", 
+            "price":999,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61gMOy6jiZL._SL1309_.jpg"
+        },
+        "13":{
+            "name":"OPPO A3s",
+            "model":"Oppo",
+            "color": "Red",
+            "ram": "3GB",
+            "memory": "32GB", 
+            "price":999,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61g0woFHtKL._SL1310_.jpg"
+        },
+        "14":{
+            "name":"OPPO A7",
+            "model":"Oppo",
+            "color": "Glaze Blue",
+            "ram": "4GB",
+            "memory": "64GB", 
+            "price":1399,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/51khqzVPLlL._SL1100_.jpg"
+        },
+        "15":{
+            "name":"OPPO F11",
+            "model":"Oppo",
+            "color": "Marble Green",
+            "ram": "6GB",
+            "memory": "128GB", 
+            "price":1751,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71MO0jRC9TL._SL1500_.jpg"
+        },
+        "16":{
+            "name":"OPPO A1K ",
+            "model":"Oppo",
+            "color": "Red",
+            "ram": "3GB",
+            "memory": "32GB", 
+            "price":1807,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71XTesfK-bL._SL1500_.jpg"
+        },
+        "17":{
+            "name":"OPPO A83",
+            "model":"Oppo",
+            "color": "Red",
+            "ram": "4GB",
+            "memory": "64GB", 
+            "price":1199,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/714m1gMVrwL._SL1500_.jpg"
+        },
+        "18":{
+            "name":"OPPO A5",
+            "model":"Oppo",
+            "color": "Dianmond Red",
+            "ram": "4GB",
+            "memory": "64GB", 
+            "price":1199,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71EBuBlLd6L._SL1313_.jpg"
+        },
+        "19":{
+            "name":"OPPO F9 Pro",
+            "model":"Oppo",
+            "color": "Starry Purple",
+            "ram": "6GB",
+            "memory": "64GB", 
+            "price":1423,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71hacv5qUqL._SL1327_.jpg"
+        },
+        "20":{
+            "name":"OPPO A5",
+            "model":"Oppo",
+            "color": "Blue",
+            "ram": "4GB",
+            "memory": "64GB", 
+            "price":1365,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71EBuBlLd6L._SL1313_.jpg"
+        },
+        "21":{
+            "name":"OPPO A7",
+            "model":"Oppo",
+            "color": "Glaze Blue",
+            "ram": "3GB",
+            "memory": "64GB", 
+            "price":1901,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/51khqzVPLlL._SL1100_.jpg"
+        },
+        "22":{
+            "name":"Oppo F5",
+            "model":"Oppo",
+            "color": "Red",
+            "ram": "6GB",
+            "memory": "64GB", 
+            "price":1640,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61T8B4U6Z8L._SL1298_.jpg"
+        },
+        "23":{
+            "name":"Oppo F5",
+            "model":"Oppo",
+            "color": "Black",
+            "ram": "6GB",
+            "memory": "64GB", 
+            "price":808,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61uM7FvCHuL._SL1288_.jpg"
+        }
+    },
+    "Redmi":{
+        "1":{
+            "name":"Redmi 6 Pro",
+            "model":"Mi",
+            "price":1878,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81xl7IHBw-L._SL1500_.jpg",
+            "ram":"8GB",
+            "memory":"64GB Storage",
+            "color":"Black"
+        },
+        "2":{
+            "name":"Redmi 6 Pro",
+            "model":"Mi",
+            "price":1241,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81xl7IHBw-L._SL1500_.jpg",
+            "ram":"8GB",
+            "memory":"32GB Storage",
+            "color":"Black"
+        },
+        "3":{
+            "name":"Redmi 7",
+            "model":"Redmi",
+            "price":554,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61P-%2BdWuq%2BL._SL1500_.jpg",
+            "ram":"8GB",
+            "memory":"32GB Storage",
+            "color":"Black"
+        },
+        "4":{
+            "name":"Redmi Y2",
+            "model":"Redmi",
+            "price":844,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/719shd%2BaqrL._SL1500_.jpg",
+            "ram":"8GB",
+            "memory":"32GB Storage",
+            "color":"Black"
+        },
+        "5":{
+            "name":"Redmi 6A",
+            "model":"Redmi",
+            "price":491,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71IhX7fJbzL._SL1500_.jpg",
+            "ram":"8GB",
+            "memory":"32GB Storage",
+            "color":"Black"
+        },
+        "6":{
+            "name":"Mi Redmi 6A",
+            "model":"Mi",
+            "price":1387,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/510d4L0LYKL._SL1325_.jpg",
+            "ram":"8GB",
+            "memory":"32GB Storage",
+            "color":"Black"
+        },
+        "7":{
+            "name":"Redmi 6 Pro",
+            "model":"Mi",
+            "price":1427,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81SgDtCe2zL._SL1500_.jpg",
+            "ram":"8GB",
+            "memory":"64GB Storage",
+            "color":"Black"
+        },
+        "8":{
+            "name":"Redmi 7",
+            "model":"Redmi",
+            "price":444,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61P-%2BdWuq%2BL._SL1500_.jpg",
+            "ram":"8GB",
+            "memory":"32GB Storage",
+            "color":"Black"
+        },
+        "9":{
+            "name":"Xiaomi Redmi 6 Pro",
+            "model":"Mi",
+            "price":1042,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71ha0V0c8kL._SL1500_.jpg",
+            "ram":"8GB",
+            "memory":"64GB Storage",
+            "color":"Black"
+        },
+        "10":{
+            "name":"Redmi Y3",
+            "model":"Redmi",
+            "price":1468,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71dWx5H92oL._SL1500_.jpg",
+            "ram":"8GB",
+            "memory":"64GB Storage",
+            "color":"Black"
+        },
+        "11":{
+            "name":"Redmi Y3",
+            "model":"Redmi",
+            "price":1423,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71L9IZiJB9L._SL1500_.jpg",
+            "ram":"8GB",
+            "memory":"64GB Storage",
+            "color":"Black"
+        },
+        "12":{
+            "name":"Redmi 7",
+            "model":"Redmi",
+            "price":816,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61V8%2BYxRWqL._SL1500_.jpg",
+            "ram":"8GB",
+            "memory":"32GB Storage",
+            "color":"Black"
+        },
+        "13":{
+            "name":"Mi Redmi 6A",
+            "model":"Mi",
+            "price":1320,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71CKuOhcuAL._SL1500_.jpg",
+            "ram":"8GB",
+            "memory":"32GB Storage",
+            "color":"Black"
+        },
+        "14":{
+            "name":"Redmi Y2",
+            "model":"Redmi",
+            "price":1498,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/719shd%2BaqrL._SL1500_.jpg",
+            "ram":"8GB",
+            "memory":"64GB Storage",
+            "color":"Black"
+        },
+        "15":{
+            "name":"Redmi 6 Pro",
+            "model":"Mi",
+            "price":324,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81SgDtCe2zL._SL1500_.jpg",
+            "ram":"8GB",
+            "memory":"32GB Storage",
+            "color":"Black"
+        },
+        "16":{
+            "name":"Redmi 5",
+            "model":"Redmi",
+            "price":899,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81ORlGLUzWL._SL1500_.jpg",
+            "ram":"8GB",
+            "memory":"64GB Storage",
+            "color":"Black"
+        },
+        "17":{
+            "name":"Redmi 6 Pro",
+            "model":"Mi",
+            "price":1960,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81QR95NILJL._SL1500_.jpg",
+            "ram":"8GB",
+            "memory":"64GB Storage",
+            "color":"Black"
+        },
+        "18":{
+            "name":"Redmi Y2",
+            "model":"Redmi",
+            "price":392,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71C5QuX8qeL._SL1500_.jpg",
+            "ram":"8GB",
+            "memory":"64GB Storage",
+            "color":"Black"
+        },
+        "19":{
+            "name":"Redmi 7",
+            "model":"Redmi",
+            "price":1049,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61XQ4wLdamL._SL1500_.jpg",
+            "ram":"8GB",
+            "memory":"32GB Storage",
+            "color":"Black"
+        },
+        "20":{
+            "name":"Redmi 7",
+            "model":"Redmi",
+            "price":612,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61XQ4wLdamL._SL1500_.jpg",
+            "ram":"8GB",
+            "memory":"32GB Storage",
+            "color":"Black"
+        },
+        "21":{
+            "name":"Redmi Y3",
+            "model":"Redmi",
+            "price":698,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/718FBBTV0IL._SL1500_.jpg",
+            "ram":"8GB",
+            "memory":"64GB Storage",
+            "color":"Black"
+        },
+        "22":{
+            "name":"Redmi Y3",
+            "model":"Redmi",
+            "price":1030,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71L9IZiJB9L._SL1500_.jpg",
+            "ram":"8GB",
+            "memory":"32GB Storage",
+            "color":"Black"
+        },
+        "23":{
+            "name":"Redmi 6 Pro",
+            "model":"Mi",
+            "price":1193,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81QR95NILJL._SL1500_.jpg",
+            "ram":"8GB",
+            "memory":"32GB Storage",
+            "color":"Black"
+        },
+        "24":{
+            "name":"Redmi 7",
+            "model":"Redmi",
+            "price":310,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61V8%2BYxRWqL._SL1500_.jpg",
+            "ram":"8GB",
+            "memory":"32GB Storage",
+            "color":"Black"
+        },
+        "25":{
+            "name":"Redmi 6 Pro",
+            "model":"Mi",
+            "price":1579,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81CXU6r5PmL._SL1500_.jpg",
+            "ram":"8GB",
+            "memory":"64GB Storage",
+            "color":"Black"
+        },
+        "26":{
+            "name":"Mi Mi Redmi 5",
+            "model":"Redmi",
+            "price":919,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81C9mcBV6YL._SL1500_.jpg",
+            "ram":"8GB",
+            "memory":"64GB Storage",
+            "color":"Black"
+        },
+        "27":{
+            "name":"Mi Redmi 5",
+            "model":"Redmi",
+            "price":1755,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81ZrPnly9cL._SL1500_.jpg",
+            "ram":"8GB",
+            "memory":"64GB Storage",
+            "color":"Black"
+        },
+        "28":{
+            "name":"Redmi 5",
+            "model":"Mi",
+            "price":1513,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81XcGuHh9ZL._SL1500_.jpg",
+            "ram":"8GB",
+            "memory":"64GB",
+            "color":"Black"
+        },
+        "29":{
+            "name":"Redmi Y2",
+            "model":"Redmi",
+            "price":829,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71C6nwP%2BeiL._SL1500_.jpg",
+            "ram":"8GB",
+            "memory":"32GB Storage",
+            "color":"Black"
+        },
+        "30":{
+            "name":"Redmi Mi Note 6 Pro",
+            "model":"Redmi",
+            "price":1162,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/517Q3-wHBkL._SL1000_.jpg",
+            "ram":"8GB",
+            "memory":"64GB Storage",
+            "color":"Black"
+        },
+        "31":{
+            "name":"Redmi Y2",
+            "model":"Redmi",
+            "price":898,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61DSOby-hbL._SL1500_.jpg",
+            "ram":"8GB",
+            "memory":"32GB Storage",
+            "color":"Black"
+        },
+        "32":{
+            "name":"Redmi Y2",
+            "model":"Redmi",
+            "price":859,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71C5QuX8qeL._SL1500_.jpg",
+            "ram":"8GB",
+            "memory":"32GB Storage",
+            "color":"Black"
+        },
+        "33":{
+            "name":"Redmi Y3",
+            "model":"Redmi",
+            "price":1923,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/718FBBTV0IL._SL1500_.jpg",
+            "ram":"8GB",
+            "memory":"32GB Storage",
+            "color":"Black"
+        },
+        "34":{
+            "name":"Redmi Y1",
+            "model":"Mi",
+            "price":874,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81LDiPcfKnL._SL1500_.jpg",
+            "ram":"8GB",
+            "memory":"32GB Storage",
+            "color":"Black"
+        },
+        "35":{
+            "name":"Redmi Y2",
+            "model":"Redmi",
+            "price":960,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71vRuA4VPLL._SL1500_.jpg",
+            "ram":"8GB",
+            "memory":"64GB Storage",
+            "color":"Black"
+        },
+        "36":{
+            "name":"Mi Redmi 5",
+            "model":"Mi",
+            "price":709,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81ZrPnly9cL._SL1500_.jpg",
+            "ram":"8GB",
+            "memory":"16GB Storage",
+            "color":"Black"
+        },
+        "37":{
+            "name":"Redmi Note 7S",
+            "model":"Mi",
+            "price":1335,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81bz9PMKR2L._SL1500_.jpg",
+            "ram":"4GB ram",
+            "memory":"4GB ram",
+            "color":"Black"
+        },
+        "38":{
+            "name":"Redmi Note 7S",
+            "model":"Mi",
+            "price":1344,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/91Qvc1xhEEL._SL1500_.jpg",
+            "ram":"4GB ram",
+            "memory":"4GB ram",
+            "color":"Black"
+        },
+        "39":{
+            "name":"Redmi 5",
+            "model":"Redmi",
+            "price":649,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81ORlGLUzWL._SL1500_.jpg",
+            "ram":"8GB",
+            "memory":"16GB Storage",
+            "color":"Black"
+        },
+        "40":{
+            "name":"Mi Redmi 6",
+            "model":"Xiaomi",
+            "price":1554,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61ROfcN2SmL._SL1500_.jpg",
+            "ram":"8GB",
+            "memory":"64GB",
+            "color":"3Gb+64Gb"
+        },
+        "41":{
+            "name":"Redmi Y3",
+            "model":"Redmi",
+            "price":1433,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61--lEl-SnL._SL1000_.jpg",
+            "ram":"8GB",
+            "memory":"32GB Storage",
+            "color":"Black"
+        },
+        "42":{
+            "name":"Mi Redmi 4",
+            "model":"Mi",
+            "price":999,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61sMiVHbQPL._SL1500_.jpg",
+            "ram":"8GB",
+            "memory":"64GB",
+            "color":"Black"
+        },
+        "43":{
+            "name":"Redmi Mi Note 6 Pro",
+            "model":"Redmi",
+            "price":664,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/819ak1fO%2B1L._SL1500_.jpg",
+            "ram":"8GB",
+            "memory":"64GB Storage",
+            "color":"Black"
+        },
+        "44":{
+            "name":"Mi Xiaomi Redmi Note 6 Pro",
+            "model":"Redmi",
+            "price":1971,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61g3QDDM07L._SL1000_.jpg",
+            "ram":"8GB",
+            "memory":"64GB",
+            "color":"Blue"
+        },
+        "45":{
+            "name":"Redmi 5",
+            "model":"Redmi",
+            "price":999,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81ORlGLUzWL._SL1500_.jpg",
+            "ram":"8GB",
+            "memory":"32GB Storage",
+            "color":"Black"
+        },
+        "46":{
+            "name":"Redmi Note 4",
+            "model":"Mi",
+            "price":1229,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81YxYZoHEHL._SL1500_.jpg",
+            "ram":"8GB",
+            "memory":"64GB Storage",
+            "color":"Black"
+        },
+        "47":{
+            "name":"Redmi Note 5 Pro",
+            "model":"Mi",
+            "price":1448,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71FIzR3BfDL._SL1500_.jpg",
+            "ram":"8GB",
+            "memory":"64GB Storage",
+            "color":"Black"
+        },
+        "48":{
+            "name":"Mi Mi Redmi 5",
+            "model":"Redmi",
+            "price":1190,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81C9mcBV6YL._SL1500_.jpg",
+            "ram":"8GB",
+            "memory":"64GB Storage",
+            "color":"Black"
+        },
+        "49":{
+            "name":"Redmi Note 4",
+            "model":"Mi",
+            "price":341,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81%2BABCJR0XL._SL1500_.jpg",
+            "ram":"8GB",
+            "memory":"64GB",
+            "color":"Black"
+        },
+        "50":{
+            "name":"Xiaomi Redmi Note 7",
+            "model":"Xiaomi",
+            "price":1498,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71xJ5m0LijL._SL1273_.jpg",
+            "ram":"8GB",
+            "memory":"64GB",
+            "color":"Ruby Red"
+        }
+    },
+    "Samsung":{
+        "1":{
+            "name":"Samsung Galaxy M10",
+            "model":"Samsung",
+            "price":799,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/613Os2k0a2L._SL1500_.jpg",
+            "color":"Ocean Blue",
+            "memory":"3+32GB",
+            "ram":"8GB"
+        },
+        "2":{
+            "name":"Samsung Galaxy A10",
+            "model":"Samsung",
+            "price":530,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81nhEX1cn4L._SL1500_.jpg",
+            "color":"Gold",
+            "ram":"2GB ram",
+            "memory":"32GB Storage with No Cost EMI/Additional Exchange Offer"
+        },
+        "3":{
+            "name":"Samsung Galaxy M40",
+            "model":"Samsung",
+            "price":1440,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61yMQIMMODL._SL1000_.jpg",
+            "color":"Midnight Blue",
+            "ram":"6GB ram",
+            "memory":"128GB Storage"
+        },
+        "4":{
+            "name":"Samsung Galaxy M10",
+            "model":"Samsung",
+            "price":988,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/613Os2k0a2L._SL1500_.jpg",
+            "color":"Ocean Blue",
+            "memory":"2+16GB",
+            "ram":"8GB"
+        },
+        "5":{
+            "name":"Samsung Galaxy M40",
+            "model":"Samsung",
+            "price":336,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61fBSSlueBL._SL1000_.jpg",
+            "color":"Cocktail Orange",
+            "ram":"6GB ram",
+            "memory":"128GB Storage"
+        },
+        "6":{
+            "name":"Samsung Galaxy M20",
+            "model":"Samsung",
+            "price":1019,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61nzw1i2taL._SL1500_.jpg",
+            "color":"Ocean Blue",
+            "memory":"4+64GB",
+            "ram":"8GB"
+        },
+        "7":{
+            "name":"Samsung Galaxy M30",
+            "model":"Samsung",
+            "price":1831,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/816RTtou9zL._SL1500_.jpg",
+            "color":"Gradation Blue",
+            "memory":"4+64 GB",
+            "ram":"8GB"
+        },
+        "8":{
+            "name":"Samsung Galaxy M20",
+            "model":"Samsung",
+            "price":1811,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61nzw1i2taL._SL1500_.jpg",
+            "color":"Ocean Blue",
+            "memory":"3+32GB",
+            "ram":"8GB"
+        },
+        "9":{
+            "name":"Samsung On7 Pro",
+            "model":"Samsung",
+            "price":620,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81mKtZOvUmL._SL1500_.jpg",
+            "color":"Gold",
+            "ram":"2GB ram",
+            "memory":"16GB Storage"
+        },
+        "10":{
+            "name":"Samsung Galaxy M20",
+            "model":"Samsung",
+            "price":1305,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71rFOsegqqL._SL1500_.jpg",
+            "color":"Charcoal Black",
+            "memory":"4+64GB",
+            "ram":"8GB"
+        },
+        "11":{
+            "name":"Samsung Galaxy A2 Core",
+            "model":"Samsung",
+            "price":1394,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/715qRScEL-L._SL1500_.jpg",
+            "color":"Dark Grey",
+            "ram":"1GB ram",
+            "memory":"16GB Storage with No Cost EMI/Additional Exchange Offers"
+        },
+        "12":{
+            "name":"Samsung Galaxy M30",
+            "model":"Samsung",
+            "price":1663,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/816RTtou9zL._SL1500_.jpg",
+            "color":"Gradation Blue",
+            "memory":"6+128 GB",
+            "ram":"8GB"
+        },
+        "13":{
+            "name":"Samsung Galaxy M30",
+            "model":"Samsung",
+            "price":1882,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81Ir1ZnwJsL._SL1500_.jpg",
+            "color":"Gradation Black",
+            "memory":"4+64 GB",
+            "ram":"8GB"
+        },
+        "14":{
+            "name":"Samsung Galaxy A20",
+            "model":"Samsung",
+            "price":1298,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/91tX5jqkdUL._SL1500_.jpg",
+            "color":"Black",
+            "ram":"3GB ram",
+            "memory":"32GB Storage with No Cost EMI/Additional Exchange Offers"
+        },
+        "15":{
+            "name":"Samsung Galaxy A20",
+            "model":"Samsung",
+            "price":1545,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/91tX5jqkdUL._SL1500_.jpg",
+            "color":"Black",
+            "ram":"3GB ram",
+            "memory":"32GB Storage with No Cost EMI/Additional Exchange Offers"
+        },
+        "16":{
+            "name":"Samsung Galaxy M10",
+            "model":"Samsung",
+            "price":765,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61vPPE0qssL._SL1500_.jpg",
+            "color":"Charcoal Black",
+            "memory":"3+32GB",
+            "ram":"8GB"
+        },
+        "17":{
+            "name":"Samsung Galaxy A20",
+            "model":"Samsung",
+            "price":1756,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/91M-OMdg1mL._SL1500_.jpg",
+            "color":"Blue",
+            "ram":"3GB ram",
+            "memory":"32GB Storage with No Cost EMI/Additional Exchange Offers"
+        },
+        "18":{
+            "name":"Samsung Galaxy M30",
+            "model":"Samsung",
+            "price":894,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81Ir1ZnwJsL._SL1500_.jpg",
+            "color":"Gradation Black",
+            "memory":"6+128 GB",
+            "ram":"8GB"
+        },
+        "19":{
+            "name":"Samsung Galaxy M20",
+            "model":"Samsung",
+            "price":1195,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71rFOsegqqL._SL1500_.jpg",
+            "color":"Charcoal Black",
+            "memory":"3+32GB",
+            "ram":"8GB"
+        },
+        "20":{
+            "name":"Samsung Guru 1200",
+            "model":"Samsung",
+            "price":110,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81lO53zfDDL._SL1500_.jpg",
+            "color":"Black",
+            "ram":"8GB",
+            "memory":"64GB"
+        },
+        "21":{
+            "name":"Samsung Galaxy A30",
+            "model":"Samsung",
+            "price":1272,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81EcudA5T0L._SL1500_.jpg",
+            "color":"Black",
+            "ram":"4GB ram",
+            "memory":"64GB Storage with No Cost EMI/Additional Exchange Offers"
+        },
+        "22":{
+            "name":"Samsung Galaxy A50",
+            "model":"Samsung",
+            "price":782,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/819OPU84B%2BL._SL1500_.jpg",
+            "color":"White",
+            "ram":"6GB ram",
+            "memory":"64GB Storage with No Cost EMI/Additional Exchange Offers"
+        },
+        "23":{
+            "name":"Samsung Galaxy A50",
+            "model":"Samsung",
+            "price":1302,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/819OPU84B%2BL._SL1500_.jpg",
+            "color":"White",
+            "ram":"4GB ram",
+            "memory":"64GB Storage with No Cost EMI/Additional Exchange Offers"
+        },
+        "24":{
+            "name":"Samsung Galaxy A10",
+            "model":"Samsung",
+            "price":1865,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71ftMiKUwbL._SL1500_.jpg",
+            "color":"Blue",
+            "ram":"2GB ram and 32GB with No Cost EMI/Additional Exchange Offers",
+            "memory":"64GB"
+        },
+        "25":{
+            "name":"Samsung Galaxy A20",
+            "model":"Samsung",
+            "price":1312,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81xZ9nTmxHL._SL1500_.jpg",
+            "color":"Gold",
+            "ram":"3GB ram",
+            "memory":"32GB Storage with No Cost EMI/Additional Exchange Offer"
+        },
+        "26":{
+            "name":"Samsung Galaxy A50",
+            "model":"Samsung",
+            "price":1472,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81eCI5lrCAL._SL1500_.jpg",
+            "color":"Blue",
+            "ram":"6GB ram",
+            "memory":"64GB Storage with No Cost EMI/Additional Exchange Offers"
+        },
+        "27":{
+            "name":"Samsung Galaxy A2 Core",
+            "model":"Samsung",
+            "price":1037,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71z5NTng2GL._SL1500_.jpg",
+            "color":"Blue",
+            "ram":"1GB ram",
+            "memory":"16GB Storage with No Cost EMI/Additional Exchange Offers"
+        },
+        "28":{
+            "name":"Samsung Guru FM Plus",
+            "model":"Samsung",
+            "price":137,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71j7xiYo-QL._SL1500_.jpg",
+            "color":"Dark Blue",
+            "ram":"8GB",
+            "memory":"64GB"
+        },
+        "29":{
+            "name":"Samsung Galaxy A50",
+            "model":"Samsung",
+            "price":1114,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81J2Udk-2NL._SL1500_.jpg",
+            "color":"Black",
+            "ram":"4GB ram",
+            "memory":"64GB Storage with No Cost EMI/Additional Exchange Offers"
+        },
+        "30":{
+            "name":"Samsung Galaxy M40",
+            "model":"Samsung",
+            "price":1882,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81IYq0D1rxL._SL1500_.jpg",
+            "color":"Seawater Blue",
+            "ram":"6GB ram",
+            "memory":"128GB Storage"
+        },
+        "31":{
+            "name":"Samsung Galaxy A30",
+            "model":"Samsung",
+            "price":1755,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81lcrlBzZFL._SL1500_.jpg",
+            "color":"Blue",
+            "ram":"4GB ram",
+            "memory":"64GB Storage with No Cost EMI/Additional Exchange Offers"
+        },
+        "32":{
+            "name":"Samsung Galaxy A50",
+            "model":"Samsung",
+            "price":384,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81eCI5lrCAL._SL1500_.jpg",
+            "color":"Blue",
+            "ram":"4GB ram",
+            "memory":"64GB Storage with No Cost EMI/Additional Exchange Offers"
+        },
+        "33":{
+            "name":"Samsung Galaxy A50",
+            "model":"Samsung",
+            "price":1965,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81J2Udk-2NL._SL1500_.jpg",
+            "color":"Black",
+            "ram":"6GB ram",
+            "memory":"64GB Storage with No Cost EMI/Additional Exchange Offers"
+        },
+        "34":{
+            "name":"Samsung Galaxy A8 Star",
+            "model":"Samsung",
+            "price":731,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61F5WIQMg%2BL._SL1500_.jpg",
+            "color":"Black",
+            "ram":"6GB ram",
+            "memory":"64GB Storage"
+        },
+        "35":{
+            "name":"Samsung Galaxy A30",
+            "model":"Samsung",
+            "price":967,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81AZ757zrGL._SL1500_.jpg",
+            "color":"White",
+            "ram":"4GB ram",
+            "memory":"64GB Storage"
+        },
+        "36":{
+            "name":"Samsung Galaxy A30",
+            "model":"Samsung",
+            "price":955,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81AZ757zrGL._SL1500_.jpg",
+            "color":"White",
+            "ram":"4GB ram",
+            "memory":"64GB Storage"
+        },
+        "37":{
+            "name":"Samsung Guru FM Plus",
+            "model":"Samsung",
+            "price":137,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61yZV1l7D%2BL._SL1500_.jpg",
+            "color":"White",
+            "ram":"8GB",
+            "memory":"64GB"
+        },
+        "38":{
+            "name":"Samsung Galaxy A10",
+            "model":"Samsung",
+            "price":876,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71qJXXHQWXL._SL1500_.jpg",
+            "color":"Black",
+            "ram":"2GB ram and 32GB with No Cost EMI/Additional Exchange Offers",
+            "memory":"64GB"
+        },
+        "39":{
+            "name":"Samsung Metro 313",
+            "model":"Samsung",
+            "price":199,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71QHB16ZzUL._SL1500_.jpg",
+            "color":"Black",
+            "ram":"8GB",
+            "memory":"64GB"
+        },
+        "40":{
+            "name":"Samsung Metro 313",
+            "model":"Samsung",
+            "price":202,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71MNgRR8kWL._SL1500_.jpg",
+            "color":"Gold",
+            "ram":"8GB",
+            "memory":"64GB"
+        },
+        "41":{
+            "name":"Samsung Galaxy A8+",
+            "model":"Samsung",
+            "price":1838,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71ixEbKAu1L._SL1500_.jpg",
+            "color":"Black",
+            "ram":"6GB ram",
+            "memory":"64GB Storage"
+        },
+        "42":{
+            "name":"Samsung Guru Music 2",
+            "model":"Samsung",
+            "price":805,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71keePS0y6L._SL1500_.jpg",
+            "color":"Gold",
+            "ram":"8GB",
+            "memory":"64GB"
+        },
+        "43":{
+            "name":"Samsung Galaxy A70",
+            "model":"Samsung",
+            "price":1940,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81ewhyroADL._SL1500_.jpg",
+            "color":"Blue",
+            "ram":"6GB ram",
+            "memory":"128GB Storage with No Cost EMI/Additional Exchange Offers"
+        },
+        "44":{
+            "name":"Samsung Galaxy S10 Plus",
+            "model":"Samsung",
+            "price":1905,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/619jtWsN0cL._SL1500_.jpg",
+            "color":"Black",
+            "ram":"8GB ram",
+            "memory":"128GB Storage with No Cost EMI/Additional Exchange Offers"
+        },
+        "45":{
+            "name":"Samsung Metro 350",
+            "model":"Samsung",
+            "price":280,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71Fdt-neXNL._SL1500_.jpg",
+            "color":"Blue Black",
+            "ram":"8GB",
+            "memory":"64GB"
+        },
+        "46":{
+            "name":"Samsung Metro 350",
+            "model":"Samsung",
+            "price":280,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71Fdt-neXNL._SL1500_.jpg",
+            "color":"Blue Black",
+            "ram":"8GB",
+            "memory":"64GB"
+        },
+        "47":{
+            "name":"Samsung Metro 313",
+            "model":"Samsung",
+            "price":202,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71eK72baU9L._SL1500_.jpg",
+            "color":"Grey",
+            "ram":"8GB",
+            "memory":"64GB"
+        },
+        "48":{
+            "name":"Samsung Galaxy S10 Plus",
+            "model":"Samsung",
+            "price":1583,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61dvlh%2BCsqL._SL1500_.jpg",
+            "color":"White",
+            "ram":"8GB ram",
+            "memory":"512GB Storage"
+        },
+        "49":{
+            "name":"Samsung Galaxy J6",
+            "model":"Samsung",
+            "price":1090,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61AUegCz3fL._SL1500_.jpg",
+            "color":"Black",
+            "ram":"4GB ram",
+            "memory":"64GB Storage"
+        },
+        "50":{
+            "name":"Samsung Galaxy J6",
+            "model":"Samsung",
+            "price":1090,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61AUegCz3fL._SL1500_.jpg",
+            "color":"Black",
+            "ram":"4GB ram",
+            "memory":"64GB Storage"
+        },
+        "51":{
+            "name":"Samsung Galaxy S10e",
+            "model":"Samsung",
+            "price":775,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/51Mn%2B13UizL._SL1500_.jpg",
+            "color":"Black",
+            "ram":"6GB ram",
+            "memory":"128GB Storage with No Cost EMI/Additional Exchange Offers"
+        },
+        "52":{
+            "name":"Samsung Guru Music 2",
+            "model":"Samsung",
+            "price":162,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61--zZV5y-L._SL1200_.jpg",
+            "color":"Black",
+            "ram":"8GB",
+            "memory":"64GB"
+        },
+        "53":{
+            "name":"Samsung Galaxy A70",
+            "model":"Samsung",
+            "price":1840,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81F2OEF3erL._SL1500_.jpg",
+            "color":"Black",
+            "ram":"6GB ram",
+            "memory":"128GB Storage with No Cost EMI/Additional Exchange Offers"
+        },
+        "54":{
+            "name":"Samsung Galaxy J6",
+            "model":"Samsung",
+            "price":1090,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61yGk6vF-hL._SL1500_.jpg",
+            "color":"Gold",
+            "ram":"4GB ram",
+            "memory":"64GB Storage"
+        },
+        "55":{
+            "name":"Samsung Galaxy S9",
+            "model":"Samsung",
+            "price":5090,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/41tztfhVW-L._SL1000_.jpg",
+            "ram":"4GB ram",
+            "memory":"256GB Storage Midnight Black",
+            "color":"black"
+        },
+        "56":{
+            "name":"Samsung Galaxy S9",
+            "model":"Samsung",
+            "price":5090,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/41tztfhVW-L._SL1000_.jpg",
+            "ram":"4GB ram",
+            "memory":"256GB Storage Midnight Black",
+            "color":"black"
+        },
+        "57":{
+            "name":"Samsung Galaxy J6",
+            "model":"Samsung",
+            "price":1090,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61yRCT3lgQL._SL1500_.jpg",
+            "color":"Blue",
+            "ram":"4GB ram",
+            "memory":"64GB Storage"
+        },
+        "58":{
+            "name":"Samsung Galaxy S9 Plus SM-G965FZKDINS",
+            "model":"Samsung",
+            "price":4589,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61BXWwb80hL._SL1500_.jpg",
+            "color":"Midnight Black",
+            "ram":"6GB ram",
+            "memory":"64GB Storage Without Offer"
+        },
+        "59":{
+            "name":"Samsung Galaxy Tab A 7 Tablet",
+            "model":"Samsung",
+            "price":534,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61dU9YGVIUL._SL1200_.jpg",
+            "color":"Black",
+            "memory":"8GB",
+            "ram":"8GB"
+        },
+        "60":{
+            "name":"Samsung Galaxy Tab A 7 Tablet",
+            "model":"Samsung",
+            "price":1496,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61dU9YGVIUL._SL1200_.jpg",
+            "color":"Black",
+            "memory":"8GB",
+            "ram":"8GB"
+        },
+        "61":{
+            "name":"Samsung Galaxy S10 Plus",
+            "model":"Samsung",
+            "price":1866,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61fv4VZRQ7L._SL1500_.jpg",
+            "color":"Blue",
+            "ram":"8GB ram",
+            "memory":"128GB Storage with No Cost EMI/Additional Exchange Offers"
+        },
+        "62":{
+            "name":"Samsung Galaxy Tab A 2017 SM-T385NZDAINS Tablet",
+            "model":"Samsung",
+            "price":1410,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71g4rGJKBTL._SL1500_.jpg",
+            "color":"Gold",
+            "memory":"16GB",
+            "ram":"8GB"
+        },
+        "63":{
+            "name":"Samsung Galaxy A8+",
+            "model":"Samsung",
+            "price":967,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71KjwTnBCNL._SL1500_.jpg",
+            "color":"Gold",
+            "ram":"6GB ram",
+            "memory":"64GB Storage with Offers"
+        },
+        "64":{
+            "name":"Samsung Galaxy J4",
+            "model":"Samsung",
+            "price":949,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61-koeG0vQL._SL1500_.jpg",
+            "color":"Black",
+            "memory":"32GB with No Cost EMI/Additional Exchange Offers",
+            "ram":"8GB"
+        },
+        "65":{
+            "name":"Samsung Galaxy J4",
+            "model":"Samsung",
+            "price":949,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61-koeG0vQL._SL1500_.jpg",
+            "color":"Black",
+            "memory":"32GB with No Cost EMI/Additional Exchange Offers",
+            "ram":"8GB"
+        },
+        "66":{
+            "name":"Samsung Galaxy A6",
+            "model":"Samsung",
+            "price":1448,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61SDmRMOj%2BL._SL1500_.jpg",
+            "color":"Blue",
+            "ram":"4GB ram",
+            "memory":"64GB Storage with Offers"
+        },
+        "67":{
+            "name":"Samsung Galaxy S10 Plus Ceramic White, 12GB ram, 1TB Storage",
+            "model":"Samsung",
+            "price":11790,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61LFYmFlLuL._SL1500_.jpg",
+            "color":"1TB Storage",
+            "ram":"12GB ram",
+            "memory":"64GB"
+        },
+        "68":{
+            "name":"Samsung U Flex Bluetooth In-ear Flexible Headphones with Microphone",
+            "model":"Samsung",
+            "price":343,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61liSwdU%2BNL._SL1500_.jpg",
+            "color":"Blue",
+            "ram":"8GB",
+            "memory":"64GB"
+        },
+        "69":{
+            "name":"Samsung Galaxy J4 Plus",
+            "model":"Samsung",
+            "price":1539,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/713JPtGrJHL._SL1500_.jpg",
+            "color":"Black",
+            "ram":"2GB ram",
+            "memory":"32GB Storage"
+        },
+        "70":{
+            "name":"Samsung Galaxy S8 G950FD 64GB DUAL SIM Unlocked",
+            "model":"Samsung",
+            "price":987,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61p06cO0CPL._SL1280_.jpg",
+            "color":"Phone-Midnight",
+            "ram":"8GB",
+            "memory":"64GB"
+        },
+        "71":{
+            "name":"Samsung Galaxy SM-R170NZKAINU Bluetooth Ear Buds",
+            "model":"Samsung",
+            "price":998,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71br76%2BP1TL._SL1500_.jpg",
+            "color":"Black",
+            "ram":"8GB",
+            "memory":"64GB"
+        },
+        "72":{
+            "name":"Samsung Galaxy S4 Flip Cover Folio Case",
+            "model":"Samsung",
+            "price":1691,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81G8mo8CmML._SL1500_.jpg",
+            "color":"White",
+            "ram":"8GB",
+            "memory":"64GB"
+        },
+        "73":{
+            "name":"Samsung Galaxy A6",
+            "model":"Samsung",
+            "price":1499,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61SCSEZRTdL._SL1500_.jpg",
+            "color":"Black",
+            "ram":"4GB ram",
+            "memory":"64GB Storage with Offers"
+        },
+        "74":{
+            "name":"Samsung Galaxy Note 9",
+            "model":"Samsung",
+            "price":1269,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61-3SaQysBL._SL1500_.jpg",
+            "color":"Midnight Black",
+            "ram":"6GB ram",
+            "memory":"128GB Storage with No Cost EMI/Additional Exchange Offers"
+        },
+        "75":{
+            "name":"Samsung S-View Flip Cover for Samsung Galaxy S 6 Edge",
+            "model":"Samsung",
+            "price":374,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71vCXWeBX-L._SL1500_.jpg",
+            "color":"Clear Gold/Gold",
+            "ram":"8GB",
+            "memory":"64GB"
+        }
+    },
+    "Vivo":{
+        "1":{
+            "name": "Vivo Y91i",
+            "model": "Vivo",
+            "color": "Fusion Black",
+            "ram": "2GB",
+            "memory": "32GB",
+            "price": 611,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/51ZoulFBPGL._SL1200_.jpg"
+        },
+        "2":{
+            "name": "Vivo Y91i",
+            "model": "Vivo",
+            "color": "Ocean Blue",
+            "ram": "2GB",
+            "memory": "32GB",
+            "price": 570,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/51FnmxwFHDL._SL1200_.jpg"
+        },
+        "3":{
+            "name": "Vivo",
+            "model": "Vivo",
+            "color": "Mineral Blue",
+            "ram": "4GB",
+            "memory": "128GB",
+            "price": 829,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/716BDAzG5tL._SL1200_.jpg"
+        },
+        "4":{
+            "name": "Vivo V15",
+            "model": "Vivo",
+            "color": "Aqua Blue",
+            "ram": "6GB",
+            "memory": "64GB",
+            "price": 1471,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/61KO32t9hcL._SL1200_.jpg"
+        },
+        "5":{
+            "name": "Vivo Y15",
+            "model": "Vivo",
+            "color": "Aqua Blue",
+            "ram": "4GB",
+            "memory": "64GB",
+            "price": 977,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/61d5kbgcBxL._SL1200_.jpg"
+        },
+        "6":{
+            "name": "Vivo V15 Pro",
+            "model": "Vivo",
+            "color": "Ruby Red",
+            "ram": "6GB",
+            "memory": "128GB",
+            "price": 615,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/61WFEAE5aKL._SL1200_.jpg"
+        },
+        "7":{
+            "name": "Vivo Y12",
+            "model": "Vivo",
+            "color": "Aqua Blue",
+            "ram": "4GB",
+            "memory": "32GB",
+            "price": 769,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/518UXwfiTsL._SL1200_.jpg"
+        },
+        "8":{
+            "name": "Vivo Y12",
+            "model": "Vivo",
+            "color": "Burgundy Red",
+            "ram": "4GB",
+            "memory": "32GB",
+            "price": 913,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/51Ko2yS03EL._SL1200_.jpg"
+        },
+        "9":{
+            "name": "Vivo Y17",
+            "model": "Vivo",
+            "color": "Mystic Purple",
+            "ram": "4GB",
+            "memory": "128GB",
+            "price": 1378,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/71nzvWeQ3XL._SL1200_.jpg"
+        },
+        "10":{
+            "name": "Vivo Y12",
+            "model": "Vivo",
+            "color": "Burgundy Red",
+            "ram": "3GB",
+            "memory": "64GB",
+            "price": 897,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/51Ko2yS03EL._SL1200_.jpg"
+        },
+        "11":{
+            "name": "Vivo V15 Pro",
+            "model": "Vivo",
+            "color": "Topaz Blue",
+            "ram": "6GB",
+            "memory": "128GB",
+            "price": 468,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/61ovWQUYp7L._SL1199_.jpg"
+        },
+        "12":{
+            "name": "Vivo V15 Pro",
+            "model": "Vivo",
+            "color": "Topaz Blue",
+            "ram": "8GB",
+            "memory": "128GB",
+            "price": 1413,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/61ovWQUYp7L._SL1199_.jpg"
+        },
+        "13":{
+            "name": "Vivo V11 Pro",
+            "model": "Vivo",
+            "color": "Starry Night Black",
+            "ram": "6GB",
+            "memory": "64GB",
+            "price": 1799,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/51HZ1FRUZ6L._SL1209_.jpg"
+        },
+        "14":{
+            "name": "Vivo V15",
+            "model": "Vivo",
+            "color": "Frozen Black",
+            "ram": "6GB",
+            "memory": "64GB",
+            "price": 1231,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/61MDwaWYWqL._SL1200_.jpg"
+        },
+        "15":{
+            "name": "Vivo V15 Pro",
+            "model": "Vivo",
+            "color": "Ruby Red",
+            "ram": "8GB",
+            "memory": "128GB",
+            "price": 1947,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/61WFEAE5aKL._SL1200_.jpg"
+        },
+        "16":{
+            "name": "Vivo Y91",
+            "model": "Vivo",
+            "color": "Nebula Purple",
+            "ram": "3GB",
+            "memory": "32GB",
+            "price": 538,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/61xLVj3Fh-L._SL1200_.jpg"
+        },
+        "17":{
+            "name": "Vivo Y15",
+            "model": "Vivo",
+            "color": "Burgundy Red",
+            "ram": "4GB",
+            "memory": "64GB",
+            "price": 1845,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/51AGL2wk0GL._SL1200_.jpg"
+        },
+        "18":{
+            "name": "Vivo Y83",
+            "model": "Vivo",
+            "color": "Gold",
+            "ram": "4GB",
+            "memory": "32GB",
+            "price": 1069,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/51YF75wFAoL._SL1170_.jpg"
+        },
+        "19":{
+            "name": "Vivo V9Pro",
+            "model": "Vivo",
+            "color": "Black",
+            "ram": "6GB",
+            "memory": "128GB",
+            "price": 737,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/51rI9j2aBNL._SL1200_.jpg"
+        },
+        "20":{
+            "name": "Vivo V7+",
+            "model": "Vivo",
+            "color": "Gold",
+            "ram": "4GB",
+            "memory": "64GB",
+            "price": 1333,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/71%2BqoEP8T1L._SL1500_.jpg"
+        },
+        "21":{
+            "name": "Vivo V7+",
+            "model": "Vivo",
+            "color": "Gold",
+            "ram": "6GB",
+            "memory": "64GB",
+            "price": 1333,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/71%2BqoEP8T1L._SL1500_.jpg"
+        },
+        "22":{
+            "name": "Vivo V9",
+            "model": "Vivo",
+            "color": "Black",
+            "ram": "1GB",
+            "memory": "8GB",
+            "price": 1299,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/61zbKINbwvL._SL1200_.jpg"
+        },
+        "23":{
+            "name": "Vivo Y81",
+            "model": "Vivo",
+            "color": "Gold",
+            "ram": "4GB",
+            "memory": "32GB",
+            "price": 1403,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/51RhdmrdLdL._SL1200_.jpg"
+        },
+        "24":{
+            "name": "Vivo V9",
+            "model": "Vivo",
+            "color": "Gold",
+            "ram": "4GB",
+            "memory": "64GB",
+            "price": 1720,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/713nieQ1V9L._SL1500_.jpg"
+        },
+        "25":{
+            "name": "Vivo Y53",
+            "model": "Vivo",
+            "color": "Matte Black",
+            "ram": "8GB",
+            "memory": "256GB",
+            "price": 839,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/71ziLVs3EoL._SL1500_.jpg"
+        },
+        "26":{
+            "name": "Vivo V9",
+            "model": "Vivo",
+            "color": "Pearl Black",
+            "ram": "4GB",
+            "memory": "64GB",
+            "price": 1799,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/71TnjvE4R4L._SL1500_.jpg"
+        },
+        "27":{
+            "name": "Vivo V11 Pro 1804",
+            "model": "Vivo",
+            "color": "Supernova Red",
+            "ram": "6GB",
+            "memory": "64GB",
+            "price": 2499,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/71LbWSprReL._SL1500_.jpg"
+        },
+        "28":{
+            "name": "Vivo Y53i 1606",
+            "model": "Vivo",
+            "color": "Matte Black",
+            "ram": "4GB",
+            "memory": "64GB",
+            "price": 770,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/61bvzrytMJL._SL1200_.jpg"
+        }
+    }
+}
