@@ -1,19 +1,6 @@
 # Smartphone_shop
 
 
-## Endpoints
-
-| Method | Endpoint |
-|--------|----------|
-| POST | add_phone/ |
-| POST | get_model/ |
-| POST | search_name/ |
-| POST | upd_phone/ |
-| POST | sign_in/ |
-| POST | sign_up/ |
-| GET | add_product/<int:pk> |
-
-
 ## Database
 
 #### Schema SmartPhone
@@ -39,6 +26,34 @@
 | phone_name | string | Phone name in SmartPhone |
 | user | integer | One to Many `User` |
 
+
+
+
+## Endpoints
+
+| Method | Endpoint | Function |
+|--------|----------|----------|
+| POST | add_phone/ | add_phone |
+| POST | get_model/ | get_model |
+| POST | search_name/ | search_name |
+| POST | upd_phone/ | upd_phone |
+| POST | sign_in/ | sign_in |
+| POST | sign_up/ | sign_up |
+| GET | add_product/<int:pk> | add_product |
+
+### Functions
+
+#### `add_phone`
+> Input data
+>> {
+        'price':price,
+        'img_url':img_url,
+        'color':color,
+        'ram':ram,
+        'memory':memory,
+        'name':name,
+       'model':model
+        }
 
 
 
