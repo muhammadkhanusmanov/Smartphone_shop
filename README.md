@@ -30,3 +30,15 @@
 | add_date | date (autamtic) | create date |
 | up_date | date (autamtic) | update date |
 
+
+#### Schema Cart
+
+| Field | Type | Description |
+| ------|------|-------------|
+| phone_id | integer | Phone id in SmartPhone |
+| phone_name | string | Phone name in SmartPhone |
+| user | integer | One to Many `User` |
+
+
+
+
