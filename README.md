@@ -34,7 +34,7 @@
 | Method | Endpoint | Function |
 |--------|----------|----------|
 | POST | add_phone/ | add_phone |
-| POST | get_model/ | get_model |
+| POST | get_model/ | model_phones |
 | POST | search_name/ | search_name |
 | POST | upd_phone/ | upd_phone |
 | POST | sign_in/ | sign_in |
@@ -45,7 +45,7 @@
 
 #### `add_phone`
 > Input data
->> {
+>> - {
         'price':price,
         'img_url':img_url,
         'color':color,
@@ -54,6 +54,25 @@
         'name':name,
        'model':model
         }
+
+> Output data 
+>> - {'result':'ok'}
+
+
+#### `model_phones`
+>Input data
+>> - {'model': model_name}
+
+>Output data
+>> - Get all smartphones include model 
+
+
+#### `search_name`
+>Input data
+>> - {'name': search_name}
+
+>Output data
+>> - Get all smartphones same search_name
 
 
 
