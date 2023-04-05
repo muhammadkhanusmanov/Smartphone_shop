@@ -11,7 +11,7 @@ urlpatterns = [
     path('sign_in/',sign_in),
     path('sign_up/',sign_up),
     path('add_product/',add_product_cart),
-    path('sort_max/<float:max>',sort_max),
-    path('sort_min/<float:min>',sort_min),
+    path('sort_max/<int:max>',sort_max),
+    path('sort_min/<int:min>',sort_min),
     path('get_all_phones/',get_all_phones),
 ]
