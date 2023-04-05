@@ -35,13 +35,25 @@
 |--------|----------|----------|
 | POST | add_phone/ | add_phone |
 | POST | get_model/ | model_phones |
-| POST | search_name/ | search_name |
+| POST | get_phone/ | search_name |
 | POST | upd_phone/ | upd_phone |
 | POST | sign_in/ | sign_in |
 | POST | sign_up/ | sign_up |
-| GET | add_product/<int:pk> | add_product |
+| POST | add_product/ | add_product_cart |
+| GET | get_all_phones/ | get_all_phones |
+| GET | sort_max/<float:max> | sort_max |
+| GET | sort_min/<float:min> | sort_min |
+
 
 ### Functions
+
+#### `get_all_phones`
+>Input data
+>> - Nothing
+
+>Output data
+>> - Get all phones
+
 
 #### `add_phone`
 > Input data
@@ -75,4 +87,17 @@
 >> - Get all smartphones same search_name
 
 
+#### `sort_max`
+>Input data
+>> - <float : max>
 
+> Output data
+>> - Get all phones (phone price <= max)
+
+
+#### `sort_min`
+>Input data
+>> - <float : min>
+
+> Output data
+>> - Get all phones (phone price >= min)
