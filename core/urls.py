@@ -1,6 +1,6 @@
 from django.contrib import admin
 from django.urls import path
-from api.views import add_phone,model_phones,search_name,upd_phone,sign_in,sign_up,add_product_cart,sort_max,sort_min
+from api.views import add_phone,model_phones,search_name,upd_phone,sign_in,sign_up,add_product_cart,sort_max,sort_min,get_all_phones
 
 urlpatterns = [
     path('admin/', admin.site.urls),
@@ -13,4 +13,5 @@ urlpatterns = [
     path('add_product/',add_product_cart),
     path('sort_max/<float:max>',sort_max),
     path('sort_min/<float:min>',sort_min),
+    path('get_all_phones/',get_all_phones),
 ]
