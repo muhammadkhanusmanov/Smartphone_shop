@@ -41,8 +41,8 @@
 | POST | sign_up/ | sign_up |
 | POST | add_product/ | add_product_cart |
 | GET | get_all_phones/ | get_all_phones |
-| GET | sort_max/<float:max> | sort_max |
-| GET | sort_min/<float:min> | sort_min |
+| GET | sort_max/<int:max> | sort_max |
+| GET | sort_min/<int:min> | sort_min |
 
 
 ### Functions
@@ -89,7 +89,7 @@
 
 #### `sort_max`
 >Input data
->> - <float : max>
+>> - <int : max>
 
 > Output data
 >> - Get all phones (phone price <= max)
@@ -97,7 +97,7 @@
 
 #### `sort_min`
 >Input data
->> - <float : min>
+>> - <int : min>
 
 > Output data
 >> - Get all phones (phone price >= min)
