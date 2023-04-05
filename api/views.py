@@ -184,7 +184,24 @@ def add_product_cart(req:HttpRequest,pk:int):
 
 
 
-        
+def sort_phones(request:HttpRequest,max:float):
+    if request.method=='GET':
+        phones=SmartPhone.objects.filter(price__lte=max)
+        ans=[]
+        for phone in phones:
+            ans.append({
+            'id': phone.id,
+            'price':phone.price,
+            'img_url':phone.img_url,
+            'color':phone.color,
+            'ram':phone.ram,
+            'memory':phone.memory,
+            'name':phone.name,
+            'model':phone.model
+            })
+        return JsonResponse(ans,safe=False)
+
+
         
 
 
