@@ -167,27 +167,21 @@ def sign_up(req:HttpRequest):
             return JsonResponse({'result':'No Authentication'})
     return JsonResponse({'result':'no method'})
 
-def add_product(req:HttpRequest,pk:int):
-    if req.method=='GET':
+def add_product_cart(req:HttpRequest,pk:int):
+    if req.method == 'POST':
+        pdct=req.body.decode()
+        pdct=json.loads(pdct)
+        ph_id=pdct['phone_id']
+        us_id=pdct['user_id']
         try:
-            phone=SmartPhone.objects.get(id=pk)
+            phone=SmartPhone.objects.get(id=ph_id)
+            us=User.objects.get(id=us_id)
+            user=Cart.objects.get(user=us)
+            cart=Cart(phone_id=ph_id, phone_name=phone.name, user=us)
         except:
-            return JsonResponse({'result':'No such phone'})
-        else:
-            name=phone.name
-            try:
-                user=isAuth(req.headers.get('Authorization'))
-            except:
-                return JsonResponse({'result':'No Authentication'})
-            else:
-                cart=Cart(
-                    phone_id=pk,
-                    phone_name=name,
-                    user=user,
-                )
-                cart.save()
-                return JsonResponse({'result':'ok'})
-    return JsonResponse({'result':'NO method'})
+            return JsonResponse({'result':'Bad Request'})
+    return JsonResponse({'result':'no method'})
+
 
 
         
