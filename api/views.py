@@ -22,6 +22,25 @@ def isAuth(auth):
         return user
     return False
 
+def get_all_phones(req:HttpRequest):
+    if req.method=='GET':
+        phones=SmartPhone.objects.all()
+        ans=[]
+        for phone in phones:
+            ans.append({
+                'id':phone.id,
+                'price':phone.price,
+                'img_url':phone.img_url,
+                'color':phone.color,
+                'ram':phone.ram,
+               'memory':phone.memory,
+                'name':phone.name,
+               'model':phone.model,
+                'add_date':phone.add_date,
+                'update_date':phone.up_date
+            })
+        return JsonResponse(ans, safe=False)
+
 def add_phone(req:HttpRequest):
     if req.method=='POST':
         phone=req.body
