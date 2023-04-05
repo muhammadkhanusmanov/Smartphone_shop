@@ -101,3 +101,19 @@
 
 > Output data
 >> - Get all phones (phone price >= min)
+
+
+#### `upd_phone`
+>Input data
+>> - {
+        'name': name,
+        'model': model,
+        'price': price
+        'ram':ram,
+        'memory': memory,
+        'color': color,
+        'img_url':img_url
+}
+
+> Output data
+>> {'result':'ok'}
