@@ -41,7 +41,7 @@ class Cart(models.Model):
     
 class Category(models.Model):
     name=models.CharField(max_length=30)
-    product=models.ForeignKey(SmartPhone, models.CASCADE)
+    product=models.ManyToManyField(SmartPhone)
 
     def __str__(self) -> str:
         return self.name
