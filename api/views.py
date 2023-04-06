@@ -203,7 +203,7 @@ def add_product_cart(req:HttpRequest,pk:int):
 
 
 
-def sort_max(request:HttpRequest,max:float):
+def sort_max(request:HttpRequest,max:int):
     if request.method=='GET':
         phones=SmartPhone.objects.filter(price__lte=max)
         ans=[]
@@ -220,7 +220,7 @@ def sort_max(request:HttpRequest,max:float):
             })
         return JsonResponse(ans,safe=False)
 
-def sort_min(request:HttpRequest,min:float):
+def sort_min(request:HttpRequest,min:int):
     if request.method=='GET':
         phones=SmartPhone.objects.filter(price__gte=min)
         ans=[]
