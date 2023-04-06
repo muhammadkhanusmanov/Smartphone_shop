@@ -38,3 +38,10 @@ class Cart(models.Model):
 
     def __str__(self) -> str:
         return self.phone_name
+    
+class Category(models.Model):
+    name=models.CharField(max_length=30)
+    product=models.ForeignKey(SmartPhone, models.CASCADE)
+
+    def __str__(self) -> str:
+        return self.name
